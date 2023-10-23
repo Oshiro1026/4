@@ -1,0 +1,13 @@
+OpenCV 4.4.5
+
+cv.threshold
+	https://docs.opencv.org/4.5.5/d7/d1b/group__imgproc__misc.html#gae8a4a146d1ca78c626a53577199e9c57
+
+ThresholdTypes
+	https://docs.opencv.org/4.5.5/d7/d1b/group__imgproc__misc.html#gaa9e58d2860d4afa658ef70a9b1115576
+
+cv.adaptiveThreshold
+	https://docs.opencv.org/4.5.5/d7/d1b/group__imgproc__misc.html#ga72b913f352e4a1b1b397736707afcde3
+
+Tutorial: Image Thresholding
+	https://docs.opencv.org/4.5.5/d7/d4d/tutorial_py_thresholding.html
